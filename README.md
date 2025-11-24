@@ -22,9 +22,7 @@ Currently, my research lies at the intersection of:
 
 ## 🧪 Research Interests
 
-- 3D Reconstruction from Point Clouds  
-- Mesh Editing and Deformation  
-- Geometry-based Deep Learning  
+- 3d Deep Learning  
 - Computer Vision and Machine Learning  
 
 ---
