@@ -1,0 +1,5 @@
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: Kanchan Sharma | 3D Reconstruction Research
+description: Exploring 3D reconstruction, point clouds, and mesh editing.
