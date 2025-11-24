@@ -50,8 +50,8 @@ Currently, my research lies at the intersection of:
 ## 📬 Contact
 
 **Email:** *kanchan25@iiserb.ac.in*  
-**GitHub:** *(your GitHub URL)*  
-**LinkedIn:** *(https://www.linkedin.com/in/kanchan-k-sharma-a59051318/)*  
+**GitHub:** *https://github.com/kanchan25-cpu*  
+**LinkedIn:** *https://www.linkedin.com/in/kanchan-k-sharma-a59051318/*  
 
 
 ---
