@@ -6,21 +6,22 @@ Former M.Sc. Mathematics, IIT Kanpur
 
 ---
 
-## 👋 About Me
+##  About Me
 
-I am a research scholar working in the area of **3D Reconstruction**, focusing on geometry-based deep learning, point cloud processing, and mesh editing. 
+I am a research scholar working in the area of **Urban planning**. My research area mainly focuses on suggesting the changes which makes a city more women safe. 
 
 I completed my **Master’s degree in Mathematics from IIT Kanpur**, where I developed a deep interest in **Reaction–Diffusion equations** and mathematical modeling.
 
 Currently, my research lies at the intersection of:
 
+- Urban planning
 - 3D Computer Vision   
 - Deep Learning for 3D Data   
-- Mesh Editing  
+    
 
 ---
 
-## 🧪 Research Interests
+##  Research Interests
 
 - 3d Deep Learning  
 - Computer Vision and Machine Learning  
@@ -33,12 +34,12 @@ Currently, my research lies at the intersection of:
 |----------|--------|
 | Programming | Python, MATLAB |
 | Libraries & Tools | PyTorch, NumPy, OpenCV, Open3D |
-| Domain Knowledge | Computer Vision, Machine Learning, 3D Deep Learning, Mesh Processing |
+| Domain Knowledge | Computer Vision, Machine Learning, 3D Deep Learning, Mesh Processing | Optimization
 | Other Interests | PDEs, Mathematical Modeling, Reading Books |
 
 ---
 
-## 🎓 Education
+##  Education
 
 | Degree | Institute |
 |--------|-----------|
@@ -47,7 +48,7 @@ Currently, my research lies at the intersection of:
 
 ---
 
-## 📬 Contact
+##  Contact
 
 **Email:** *kanchan25@iiserb.ac.in*  
 **GitHub:** *https://github.com/kanchan25-cpu*  
@@ -56,4 +57,4 @@ Currently, my research lies at the intersection of:
 
 ---
 
-*Open to research collaboration in 3D Vision.*
+*Open to research collaboration.*
