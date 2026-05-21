@@ -28,7 +28,7 @@ Currently, my research lies at the intersection of:
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 | Category | Skills |
 |----------|--------|
